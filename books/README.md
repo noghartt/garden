@@ -8,3 +8,4 @@ Aqui ficará constando o progresso dos livros que estou lendo, artigos, entre ou
 
 ## Em progresso
 - [Rápido e Devagar: Duas formas de se pensar - Daniel Kahneman](rapido-e-devagar-daniel-kahneman.md)
+- [Crafting Interpreters - Robert Nystrom](crafting-interpreters-robert-nystrom)
