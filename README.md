@@ -1,7 +1,7 @@
 # Uma tentativa de um digital garden
 Esse repositório, num futuro próximo (talvez) deva sofrer mudanças, incluindo a internacionalização das notas aqui presentes. Por enquanto, as notas serão produzidas em português do Brasil.
 
-(Isso é um lembrete para mim também: no futuro isso precisa estar em inglês!)
+(Isso é um lembrete para mim também: no futuro isso **PRECISA** estar em inglês!)
 
 ## O que é este repositório?
 
