@@ -1,5 +1,3 @@
-#+title: README
-
 * Uma tentativa de um digital garden
 Esse repositório, num futuro próximo (talvez) deva sofrer mudanças, incluindo
 a internacionalização das notas aqui presentes. Por enquanto, as notas serão
