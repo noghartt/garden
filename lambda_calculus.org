@@ -12,5 +12,14 @@ model of computation that can be used to simulate any Turing Machine.
 --- [[wikipedia:Lambda Calculus][Lambda Calculus - Wikipedia, the free enclycopedia]]
 #+END_QUOTE
 
+** Definição
+| Expressions                                         |
+|-----------------------------------------------------|
+| <expression> := <name> / <function> / <application> |
+| <function> := \lambda <name> . <expression>               |
+| <application> := <expression><expression>           |
+
+
 ** Referências
 - [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
+- [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
