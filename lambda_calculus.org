@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fff13688-0b15-4836-a901-588ac28524a0
+:END:
+
+* Lambda Calculus
+Segundo a Wikipedia, o cálculo lambda (ou cálculo \lambda) é:
+#+BEGIN_QUOTE
+A formal system in mathematical logic for expressing computation based on function
+abstraction and application using variable binding and substitution. It is a universal
+model of computation that can be used to simulate any Turing Machine.
+
+--- [[wikipedia:Lambda Calculus][Lambada Calculus - Wikipedia, the free enclycopedia]]
+#+END_QUOTE
+
+** Referências
+- [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
