@@ -9,7 +9,7 @@ A formal system in mathematical logic for expressing computation based on functi
 abstraction and application using variable binding and substitution. It is a universal
 model of computation that can be used to simulate any Turing Machine.
 
---- [[wikipedia:Lambda Calculus][Lambada Calculus - Wikipedia, the free enclycopedia]]
+--- [[wikipedia:Lambda Calculus][Lambda Calculus - Wikipedia, the free enclycopedia]]
 #+END_QUOTE
 
 ** Referências
