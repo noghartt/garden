@@ -4,6 +4,7 @@
 
 * Lambda Calculus
 Segundo a Wikipedia, o cálculo lambda (ou cálculo \lambda) é:
+
 #+BEGIN_QUOTE
 A formal system in mathematical logic for expressing computation based on function
 abstraction and application using variable binding and substitution. It is a universal
@@ -13,6 +14,19 @@ model of computation that can be used to simulate any Turing Machine.
 #+END_QUOTE
 
 ** Definição
+É responsável por receber um /input/, processá-lo atráves de algo semelhante
+a uma /"black-box"/ e obter seu /output/. Diferentemente do modelo computacional
+proposto por Turing, o cálculo lambda não possui nenhum estado interno, sendo assim,
+ela é baseada em funções *puras*.
+
+Um exemplo de uma /"função lambda"/ seria:
+\begin{equation}
+(\lambda x.x + 1)(5)
+\end{equation}
+
+Você pode substituir o valor de ~x~ por 5, e assim obterá o respectivo /"output"/
+para a função.
+
 | Expressions                                         |
 |-----------------------------------------------------|
 | <expression> := <name> / <function> / <application> |
