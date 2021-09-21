@@ -37,21 +37,22 @@ A syntax é basicamente isto:
 ** Combinators
 Combinators são basicamente funções que possuem todas suas variáveis "boundeds"[fn:1].
 Alguns exemplos de combinators são:
-- ~I~ ou "Identity": é uma função que recebe um argumento e o retorna
-  Exemplo: \lambda x.x
-- ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o primeiro
-  Exemplo: \lambda xy.x
-- ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo
-  Exemplo: \lambda xy.y
-- ~C~  ou "Cardinal": é uma função que recebe uma função com dois argumentos e os "flipa"
-  Exemplo: \lambda fxy.fyx
-- ~M~ ou "Mockingbird": é uma função que recebe uma função e aplica nela mesmo
-  Exemplo: \lambda x.xx
-
-** Referências
-- [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
-- [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
+- ~I~ ou "Identity": é uma função que recebe um argumento e o retorna.
+  *Exemplo:* \lambda x.x
+- ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o primeiro.
+  *Exemplo:* \lambda xy.x
+- ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo.
+  *Exemplo:* \lambda xy.y
+- ~C~  ou "Cardinal": é uma função que recebe uma função com dois argumentos e os "flipa".
+  *Exemplo:* \lambda fxy.fyx
+- ~M~ ou "Mockingbird": é uma função que recebe uma função e aplica nela mesmo.
+  *Exemplo:* \lambda x.xx
 
 * Footnotes
 [fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função,
 em oposição, variáveis "free" são aquelas que não possuem o escopo definido.
+
+* Referências
+- [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
+- [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
+- [[https:glebec.github.io/lambda-talk/][Lambda as JS, or a flock of functions - A talk by Gabriel Lebec]]
