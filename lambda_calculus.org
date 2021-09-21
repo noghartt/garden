@@ -1,8 +1,8 @@
+* Lambda Calculus
 :PROPERTIES:
 :ID:       fff13688-0b15-4836-a901-588ac28524a0
 :END:
 
-* Lambda Calculus
 Segundo a Wikipedia, o cálculo lambda (ou cálculo \lambda) é:
 
 #+BEGIN_QUOTE
@@ -14,26 +14,44 @@ model of computation that can be used to simulate any Turing Machine.
 #+END_QUOTE
 
 ** Definição
-É responsável por receber um /input/, processá-lo atráves de algo semelhante
-a uma /"black-box"/ e obter seu /output/. Diferentemente do modelo computacional
+É responsável por receber um input, processá-lo atráves de algo semelhante
+a uma "black-box" e obter seu output. Diferentemente do modelo computacional
 proposto por Turing, o cálculo lambda não possui nenhum estado interno, sendo assim,
-ela é baseada em funções *puras*.
+ela é baseada em funções matemáticas *puras*.
 
-Um exemplo de uma /"função lambda"/ seria:
+Um exemplo de uma "função lambda" seria:
 \begin{equation}
 (\lambda x.x + 1)(5)
 \end{equation}
 
-Você pode substituir o valor de ~x~ por 5, e assim obterá o respectivo /"output"/
-para a função.
+Você pode substituir o valor de ~x~ por 5, e assim obterá o respectivo "output"
+gara a função.
 
+A syntax é basicamente isto:
 | Expressions                                         |
 |-----------------------------------------------------|
 | <expression> := <name> / <function> / <application> |
 | <function> := \lambda <name> . <expression>               |
 | <application> := <expression><expression>           |
 
+** Combinators
+Combinators são basicamente funções que possuem todas suas variáveis "boundeds"[fn:1].
+Alguns exemplos de combinators são:
+- ~I~ ou "Identity": é uma função que recebe um argumento e o retorna
+  Exemplo: \lambda x.x
+- ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o primeiro
+  Exemplo: \lambda xy.x
+- ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo
+  Exemplo: \lambda xy.y
+- ~C~  ou "Cardinal": é uma função que recebe uma função com dois argumentos e os "flipa"
+  Exemplo: \lambda fxy.fyx
+- ~M~ ou "Mockingbird": é uma função que recebe uma função e aplica nela mesmo
+  Exemplo: \lambda x.xx
 
 ** Referências
 - [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
 - [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
+
+* Footnotes
+[fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função,
+em oposição, variáveis "free" são aquelas que não possuem o escopo definido.
