@@ -48,11 +48,12 @@ Alguns exemplos de combinators são:
 - ~M~ ou "Mockingbird": é uma função que recebe uma função e aplica nela mesmo.
   *Exemplo:* \lambda x.xx
 
-* Footnotes
-[fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função,
-em oposição, variáveis "free" são aquelas que não possuem o escopo definido.
-
 * Referências
 - [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
 - [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
 - [[https:glebec.github.io/lambda-talk/][Lambda as JS, or a flock of functions - A talk by Gabriel Lebec]]
+
+* Footnotes
+[fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função,
+em oposição, variáveis "free" são aquelas que não possuem o escopo definido.
+
