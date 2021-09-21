@@ -4,4 +4,5 @@
 :END:
 
 ** Computer Science
-[[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
+- [[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
+- [[https:www.amazon.com.br/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X][Introduction to Theory of Computation - Michael Sipser]]
