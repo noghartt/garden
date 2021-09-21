@@ -5,6 +5,12 @@ produzidas em português do Brasil.
 
 (Isso é um lembrete para mim também: no futuro isso *PRECISA* estar em inglês!)
 
+#+BEGIN_QUOTE
+*ATENÇÃO:* Esse repositório foi escriot usando o *Org Mode* do Emacs, você poderá
+encontrar algumas incongruências de formatação. Recomendamos fortemente que, caso
+tenha interesse em ler de forma mais detalhada, use Emacs ou visualize na forma "raw".
+#+END_QUOTE
+
 ** O que é este repositório?
 Esse repositório foi inspirado na construção de uma wiki apostando no
 [[https:www.swyx.io/learn-in-public/][Learn in Public]], seguindo conceitos
