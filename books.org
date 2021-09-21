@@ -1,0 +1,7 @@
+* Books
+:PROPERTIES:
+:ID:       27581ed5-adc6-4448-8828-f11a62154c69
+:END:
+
+** Computer Science
+[[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
