@@ -6,9 +6,9 @@ produzidas em português do Brasil.
 (Isso é um lembrete para mim também: no futuro isso *PRECISA* estar em inglês!)
 
 #+BEGIN_QUOTE
-*ATENÇÃO:* Esse repositório foi escriot usando o *Org Mode* do Emacs, você poderá
+*ATENÇÃO:* Esse repositório foi escrito usando o *Org Mode* do Emacs, você poderá
 encontrar algumas incongruências de formatação. Recomendamos fortemente que, caso
-tenha interesse em ler de forma mais detalhada, use Emacs ou visualize na forma "raw".
+tenha interesse em ler de forma mais detalhada, use Emacs ou visualize no modo "raw".
 #+END_QUOTE
 
 ** O que é este repositório?
