@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e63207c2-c11e-4c9e-8a22-03e9888b228d
+:END:
+#+TITLE: Emulators
+
+* References
++ [[yt:Kgi2apB17Ek][Emulação (Parte 2) - Criando o decodificador e interpretador | Teske's Lab]]
