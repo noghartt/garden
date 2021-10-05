@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       62190c69-4cf8-4810-be72-ce11f7dafe28
+:END:
+#+title: Docker
+
+* Articles
++ [[https:nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose][Best Practices Around Production Ready Web Apps with Docker Compose]]
