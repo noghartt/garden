@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d24898eb-d027-4699-b8c3-aa6ad9a82d7a
+:END:
+#+title: Von Neumann Architecture
+
+* References
++ [[yt:Ml3-kVYLNr8][YouTube: Von Neumann Architecture - Computerphile]]
