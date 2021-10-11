@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c8160054-5151-4e7a-9b91-aa1f16bc71cf
+:END:
+#+title: Haskell
+
+* References
++ [[https:learnyouahaskell.com/][Learn you a Haskell]]
