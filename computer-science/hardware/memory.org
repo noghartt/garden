@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       fffcd4b9-6a2e-4ee6-861b-c1104aea24b1
+:END:
+#+title: Memory
+
+* References
++ [[yt:XETZoRYdtkw][YouTube: How Computer Memory Works - Computerphile]]
