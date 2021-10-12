@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       be7658f7-3f48-4460-88c8-e5d76d2ae7cb
+:END:
+#+title: Mongoose
+
+A MongoDB ODM to Node.js
+
+* References
++ [[https:mongoosejs.com/][Mongoose - Official Site]]
