@@ -6,7 +6,7 @@
 Segundo a Wikipedia, o cálculo lambda (ou cálculo \lambda) é:
 
 #+BEGIN_QUOTE
-A formal system in mathematical logic for expressing computation based on function
+A [[wikipedia:formal system][formal system]] in mathematical logic for expressing computation based on function
 abstraction and application using variable binding and substitution. It is a universal
 model of computation that can be used to simulate any Turing Machine.
 
