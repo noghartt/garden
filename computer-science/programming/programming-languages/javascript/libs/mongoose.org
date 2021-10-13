@@ -5,5 +5,8 @@
 
 A MongoDB ODM to Node.js
 
+* Articles
++ [[https:coderrocketfuel.com/article/store-passwords-in-mongodb-with-node-js-mongoose-and-bcrypt][Store passwords in MongoDB with Node.js, Mongoose and Bcryptjs]]
+
 * References
 + [[https:mongoosejs.com/][Mongoose - Official Site]]
