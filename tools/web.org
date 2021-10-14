@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       def1855b-7662-4e25-9c61-1e236d32bb38
+:END:
+#+title: Web
+
+* Performance
++ [[https:developers.google.com/web/fundamentals/performance/rendering][Google Developers: Web Rendering Performance]]
