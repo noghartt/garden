@@ -38,3 +38,6 @@ Aparentemente, o que faz maior sentido pro uso desse workflow é para aplicativo
 integração prévia com o Expo, fazendo uso da grande maioria das funcionalidades que ele dispõe (com
 exceção dde algumas) mas tendo também a garantia de manuseio do código nativo da aplicação, podendo assim
 ter maior liberdade de lidar com o código da aplicação que ficará dispostas nas possíveis plataformas.
+
+*** See more
++ [[https:stackoverflow.com/questions/61723372/what-is-the-difference-between-react-native-cli-and-expo-with-bare-workflow][What is the difference between react-native-cli and Expo with bare workflow?]]
