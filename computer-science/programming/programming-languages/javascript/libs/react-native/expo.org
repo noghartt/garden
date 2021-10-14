@@ -32,7 +32,7 @@ criado com o =react-native-cli= pré-configurado com algumas coisas do Expo.
   mas isso pode implicar em alguns problemas de incompatibilidade de bibliotecas ou semelhantes.
 
 
-Então, a pergunta que não quer calar é: *quando devo usar o =Bare Workflow=*?
+Então, a pergunta que não quer calar é: *quando devo usar o Bare Workflow*?
 
 Aparentemente, o que faz maior sentido pro uso desse workflow é para aplicativos que necessitam de
 integração prévia com o Expo, fazendo uso da grande maioria das funcionalidades que ele dispõe (com
