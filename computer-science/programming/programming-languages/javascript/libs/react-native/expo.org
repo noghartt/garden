@@ -4,3 +4,38 @@
 #+title: [[https:docs.expo.dev][Expo]]
 
 An open source plataform to make apps to Android, iOS, etc.
+
+* Some doubts and questions
+** What's the difference between managed and bare workflow?
+#+BEGIN_QUOTE
+- With the managed workflow you only write JavaScript/TypeScript and Expo tools
+  and services take care of everything else for you.
+- In the bare workflow you have full control over every aspect of the native project,
+  and Expo tools and services are a little more limited.
+
+  --- [[https:docs.expo.dev/introduction/managed-vs-bare/][Managed vs Bare workflow - Expo Documentation]]
+#+END_QUOTE
+
+Com o =bare workflow= você consegue ter maiores possibilidades dentro do ecossistema
+do React Native, não se restrigindo ao ambiente que o Expo propõe. Agora, dentro do
+=managed worflow=, você consegue encontrar algumas facilidades que o Expo te dá, como
+a não necessidade de lidar diretamente com código nativo (você ainda pode ejetar, etc).
+
+Fazendo uma mera comparação, o =bare workflow= disponível é basicamente um aplicativo
+criado com o =react-native-cli= pré-configurado com algumas coisas do Expo.
+
+*Alguns pontos a validar ainda:*
+- [[https:docs.expo.dev/bare/exploring-bare-workflow/#releasing-to-app-store-and-play-store][Conforme dito na documentação do Expo]], o =bare workflow= ainda não suporta as features
+  que o =Expo build servie= dispõe, portanto, a fase de build do projeto em si ficaria toda
+  por conta do desenvolvedor.
+
+
+Então, a pergunta que não quer calar é: *quando devo usar o =Bare Workflow=*?
+
+Aparentemente, o que faz maior sentido pro uso desse workflow é para aplicativos que necessitam de
+integração prévia com o Expo, fazendo uso da grande maioria das funcionalidades que ele dispõe (com
+exceção dde algumas) mas tendo também a garantia de manuseio do código nativo da aplicação, podendo assim
+ter maior liberdade de lidar com o código da aplicação que ficará dispostas nas possíveis plataformas.
+
+Vale fazer a ressalva que é possível efetuar o =eject= de uma aplicação feita com o =managed workflow==,
+mas isso pode implicar em alguns problemas de incompatibilidade de bibliotecas ou semelhantes.
