@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9b90f5c4-2f15-44fd-bb94-a926ed4f676c
+:END:
+#+title: [[https:docs.expo.dev][Expo]]
+
+An open source plataform to make apps to Android, iOS, etc.
