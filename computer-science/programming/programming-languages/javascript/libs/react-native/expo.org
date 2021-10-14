@@ -28,6 +28,8 @@ criado com o =react-native-cli= pré-configurado com algumas coisas do Expo.
 - [[https:docs.expo.dev/bare/exploring-bare-workflow/#releasing-to-app-store-and-play-store][Conforme dito na documentação do Expo]], o =bare workflow= ainda não suporta as features
   que o =Expo build servie= dispõe, portanto, a fase de build do projeto em si ficaria toda
   por conta do desenvolvedor.
+- É possível, ainda sim, fazer a ejeção do código nativo num projeto com o =managed workflow=,
+  mas isso pode implicar em alguns problemas de incompatibilidade de bibliotecas ou semelhantes.
 
 
 Então, a pergunta que não quer calar é: *quando devo usar o =Bare Workflow=*?
@@ -36,6 +38,3 @@ Aparentemente, o que faz maior sentido pro uso desse workflow é para aplicativo
 integração prévia com o Expo, fazendo uso da grande maioria das funcionalidades que ele dispõe (com
 exceção dde algumas) mas tendo também a garantia de manuseio do código nativo da aplicação, podendo assim
 ter maior liberdade de lidar com o código da aplicação que ficará dispostas nas possíveis plataformas.
-
-Vale fazer a ressalva que é possível efetuar o =eject= de uma aplicação feita com o =managed workflow==,
-mas isso pode implicar em alguns problemas de incompatibilidade de bibliotecas ou semelhantes.
