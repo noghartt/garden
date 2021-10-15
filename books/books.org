@@ -9,3 +9,4 @@
 - [[https:cs.rochester.edu/~scott/pragmatics/][Programming Language Pragmatics, 4th Edition - Michael L. Scott]]
 - [[https:pragprog.com/titles/tpdsl/language-implementation-patterns/][Language Implementation Patterns - Terence Parr]]
 - [[https://craftinginterpreters.com][Crafting Interpreters - Robert Nystrom]]
+- [[https:amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844][Introduction to Algorithms, 3rd edition - Thomas H. Cormem]]
