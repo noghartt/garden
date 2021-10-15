@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       cab6685c-5aec-4b5d-bde2-f664ccc7c80e
+:END:
+#+title: CORS (Cross)
+
+* Articles
++ [[wikipedia:Cross-origin resource sharing][Wikipedia: Cross-origin resource sharing]]
++ [[https:miguelmota.com/blog/understanding-cross-origin-resource-sharing-cors/][Understanding Cross-Origin Resource Sharing (CORS)]]
++ [[https:jakearchibald.com/2021/cors/][How to win at CORS]]
