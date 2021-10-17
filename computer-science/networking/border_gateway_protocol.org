@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c9cbc76f-ff9a-4a21-b567-348207cc0077
+:END:
+#+title: Border Gateway Protocol
+
+* Articles
++ [[https:cloudflare.com/it-it/learning/security/glossary/what-is-bgp/][What is BGP? | BGP Routing Explained - CloudFlare]]
++ [[wikipedia:Border Gateway Protocol][Border Gateway Protocol - Wikipedia]]
++ [[youtube:-wMU8vmfaYo][Why was Facebook down for five hours? - YouTube]]
