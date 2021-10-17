@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0eb3eaa6-cd31-4153-9d51-749abe97dac2
+:END:
+#+title: Turing Machine
+
+* Articles
++ [[wikipedia:Turing machine][Turing machine - Wikipedia]]
