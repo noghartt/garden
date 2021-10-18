@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e7705253-6c4b-433d-ad3d-e4ff4b41d5fe
+:END:
+#+title: Ethereum
+
+* Articles
++ [[https:ethereum.org/en/whitepaper/][Ethereum Whitepaper]]
