@@ -3,5 +3,12 @@
 :END:
 #+title: Ethereum
 
+* Notes
+A intenção da criação do Ethereum foi baseado no desejo de criar a partir de uma
+linguagem Turing complete, a oportunidade de você ter:
+- NFTs (Non-fungible tokens);
+- DAOs (Decentralized Autonomous Organizations);
+- Digital assets baseados num pedaço de código, os smart contracts;
+- Instrumentos financeiros e moedas "custom" AKA colored coins;
 * Articles
 + [[https:ethereum.org/en/whitepaper/][Ethereum Whitepaper]]
