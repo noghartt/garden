@@ -10,5 +10,31 @@ linguagem Turing complete, a oportunidade de você ter:
 - DAOs (Decentralized Autonomous Organizations);
 - Digital assets baseados num pedaço de código, os smart contracts;
 - Instrumentos financeiros e moedas "custom" AKA colored coins;
+
+Podemos encarar uma blockchain como um "state transition system", sendo formalmente
+definida da seguinte forma:
+#+BEGIN_SRC
+APPLY(S, TX) -> S' or ERROR
+#+END_SRC
+
+Sendo que =S= é o estado pertinente aos todos domínios que detém uma parcela dos
+bitcoins existentes, distribuído a partir de diversos endereços (public keys)
+de 20 bytes.
+
+=TX= é a transação do momento, por exemplo: ="send $20 from Alice to Bob"=, isso
+garante que, caso Alice tenha 20 ou mais unidades monetárias, ela faça a transição
+corretamente para Bob, mas, caso não tenha, será lançado um erro.
+
+** Ethereum Account
+O estado da blockchain do Ethereum é baseada em objetos chamados *accounts*, tendo,
+cada um deles, um endereço de 20 bytes, e as transições de estados partindo entre
+contas.
+
+Uma conta Ethereum contém 4 campos:
+- O *nonce*, um contador usado para garantir que cada transação deve ser processada
+  uma única vez;
+- O saldo atual de *ether*;
+- O *contract code*, caso tenha;
+- O armazenamento da conta, vazio por padrão;
 * Articles
 + [[https:ethereum.org/en/whitepaper/][Ethereum Whitepaper]]
