@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4020770d-a282-4059-bf72-e8b07f237c8e
+:END:
+#+title: Category Theory
+
+* Articles
++ [[https:miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html][Adventures in Category Theory - The algebra of types]]
