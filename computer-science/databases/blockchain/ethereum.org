@@ -21,7 +21,7 @@ Sendo que =S= é o estado pertinente aos todos domínios que detém uma parcela 
 bitcoins existentes, distribuído a partir de diversos endereços (public keys)
 de 20 bytes.
 
-=TX= é a transação do momento, por exemplo: ="send $20 from Alice to Bob"=, isso
+=TX= é a transação do momento, por exemplo: =send $20 from Alice to Bob=, isso
 garante que, caso Alice tenha 20 ou mais unidades monetárias, ela faça a transição
 corretamente para Bob, mas, caso não tenha, será lançado um erro.
 
