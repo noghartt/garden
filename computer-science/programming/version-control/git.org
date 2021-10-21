@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3df46a61-cdff-4229-900d-3150237a6e17
+:END:
+#+title: Git
+
+* Articles
++ [[https:selleo.com/til/posts/orbayht4xg-conditional-gitconfig][Optional .gitconfig]]
