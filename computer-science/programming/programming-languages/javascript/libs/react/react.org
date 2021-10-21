@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8c53c96b-751f-4e71-b736-eaab520e0d9b
+:END:
+#+title: React
+
+* Articles
++ [[https:thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/][Are many useStates better than useState(object)?]]
