@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5e43d7ca-5fa7-4dd6-b043-8ba780e9b1cb
+:END:
+#+title: Golang
+
+* Articles
++ [[https:xetera.dev/thoughts-on-go/][Golang is not a good language]]
