@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       87918818-5034-42f8-9214-ee9a1f7deea6
+:END:
+#+title: Articles
+
+Some articles that doesn't have any category defined yet.
+
+* Links
++ [[https:https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/][How to get useful answers to your questions]]
