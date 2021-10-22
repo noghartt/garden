@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       802d8296-e0e3-4df7-8019-71919707b1ba
+:END:
+#+title: Blogs
+
+* Personal blogs
++ [[https:jvns.ca/][Julia Evans]]
++ [[https:paulgraham.com/][Paul Graham]]
++ [[https:hillelwayne.com/][Hillel Wayne]]
+* Others
++ [[https:fs.blog][Farnam Street]]
