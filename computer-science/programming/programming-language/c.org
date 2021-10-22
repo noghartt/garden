@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       fb567dae-c27c-481c-a236-66e5c966dbe6
+:END:
+#+title: C
+
+* Articles
++ [[https:utcc.utoronto.ca/~cks/space/blog/programming/CStackOnceNoExpansion][In the beginning, there was no way to expand C's stack size]]
