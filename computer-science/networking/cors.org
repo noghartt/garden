@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cab6685c-5aec-4b5d-bde2-f664ccc7c80e
 :END:
-#+title: CORS (Cross)
+#+title: CORS (Cross-origin Resource Sharing)
 
 * Articles
 + [[wikipedia:Cross-origin resource sharing][Wikipedia: Cross-origin resource sharing]]
