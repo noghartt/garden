@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       af68bb7d-0e77-4439-b2d5-1c7a7e57243b
+:END:
+#+title: Graph Theory
+
+* Links
++ [[wikipedia:Directed acyclic graph][Directed acyclic graph]]
