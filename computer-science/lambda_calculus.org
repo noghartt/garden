@@ -34,6 +34,8 @@ A syntax é basicamente isto:
 | <function> := \lambda <name> . <expression>               |
 | <application> := <expression><expression>           |
 
+Observação: A syntax é escrita na notação de [[wikipedia:Backus-Naur form][Backus-Naur form]].
+
 ** Combinators
 Combinators são basicamente funções que possuem todas suas variáveis "boundeds"[fn:1].
 Alguns exemplos de combinators são:
