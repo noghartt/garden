@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d1f3e3b3-38bc-4de3-83eb-c5ee0f0ed5ec
+:END:
+#+title: Theory of Computation
+
+* Links
++ [[https:www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY][MIT 18.404J Theory of Computation, Fall 2020]]
+* Books
++ [[https:www.amazon.com.br/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X][Introduction to Theory of Computation - Michael Sipser]]
