@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       987ca2a1-248f-4f8d-b45d-7185857cbcab
+:END:
+#+title: Linux
+
+* Links
++ [[https:lwn.net/][LWN - A site dedicated to Linux and free software development]]
