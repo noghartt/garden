@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       67d5f138-d6e6-4e69-89b2-61871ba59558
+:END:
+#+title: Emacs
+
+* Packages
+** Package managers (or something with packages)
++ [[github:raxod502/straight.el][straight.el]] - next generation, purely functional package manager
