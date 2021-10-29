@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       37c53357-42d1-49a4-888d-d518fa081584
+:END:
+#+title: Math
+
+* Links
++ [[github:ossu/math][ossu/math]] - A GitHub repository to self-taught education in Mathematics
