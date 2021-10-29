@@ -5,3 +5,4 @@
 
 * Articles
 + [[https:thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple/][Are many useStates better than useState(object)?]]
++ [[https:kentcdodds.com/blog/dont-call-a-react-function-component][Don't call a React function component]]
