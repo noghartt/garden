@@ -6,3 +6,4 @@
 * Articles
 + [[https:selleo.com/til/posts/orbayht4xg-conditional-gitconfig][Optional .gitconfig]]
 + [[https:initialcommit.com/blog/history-git-init-command][A 16 year history of the ~git init~ command]]
++ [[https:nobledesktop.com/blog/what-is-git-and-why-should-you-use-it][What Is Git & Why Should You Use It?]]
