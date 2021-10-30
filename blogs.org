@@ -7,5 +7,7 @@
 + [[https:jvns.ca/][Julia Evans]]
 + [[https:paulgraham.com/][Paul Graham]]
 + [[https:hillelwayne.com/][Hillel Wayne]]
+* Wiki
++ [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others
 + [[https:fs.blog][Farnam Street]]
