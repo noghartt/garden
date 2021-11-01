@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       40a34ecb-1f81-4079-b494-76556175d67c
+:END:
+#+title: Bash
+
+* Articles
++ [[https:cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/][Bash functions are better than I thought]]
