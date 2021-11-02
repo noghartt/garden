@@ -8,6 +8,7 @@
 + [[https:paulgraham.com/][Paul Graham]]
 + [[https:hillelwayne.com/][Hillel Wayne]]
 + [[https:abby.how/][Abigail's Blog]]
++ [[https:taniarascia.com/][Tania Rascia]]
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others
