@@ -5,3 +5,5 @@
 
 * Links
 + [[github:ossu/math][ossu/math]] - A GitHub repository to self-taught education in Mathematics
+* Videos
++ [[youtube:cUzklzVXJwo][How imaginary numbers were invented]]
