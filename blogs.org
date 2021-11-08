@@ -11,6 +11,7 @@
 + [[https:taniarascia.com/][Tania Rascia]]
 + [[https:jasoneckert.github.io/][Jason Eckert]]
 + [[https:schneier.com/][Bruce Schneier]]
++ [[https:gwern.net/index][Gwern Branwen]]
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others
