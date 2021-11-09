@@ -12,6 +12,7 @@
 + [[https:jasoneckert.github.io/][Jason Eckert]]
 + [[https:schneier.com/][Bruce Schneier]]
 + [[https:gwern.net/index][Gwern Branwen]]
++ [[https:mooreds.com][Dan Moore]]
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others
