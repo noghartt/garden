@@ -13,6 +13,7 @@
 + [[https:schneier.com/][Bruce Schneier]]
 + [[https:gwern.net/index][Gwern Branwen]]
 + [[https:mooreds.com][Dan Moore]]
++ [[https:kentcdodds.com/][Kent C. Dodds]]
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others

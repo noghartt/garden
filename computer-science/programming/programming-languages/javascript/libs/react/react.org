@@ -8,3 +8,4 @@
 + [[https:kentcdodds.com/blog/dont-call-a-react-function-component][Don't call a React function component]]
 + [[https:epicreact.dev/why-you-shouldnt-put-refs-in-a-dependency-array/][Why you shouldn't put refs in a dependency array]]
 + [[https:kentcdodds.com/blog/avoid-nesting-when-youre-testing][Avoid Nesting when you're Testing]]
++ [[https:kentcdodds.com/blog/colocation][Colocation]]
