@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       733c8f74-dea1-4a79-8163-ccf7ac9f5d28
+:END:
+#+TITLE: CPU
+
+* Links
++ [[https:blog.robertelder.org/how-to-make-a-cpu/][How to make a CPU]]
