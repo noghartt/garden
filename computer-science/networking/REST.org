@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0467b0c6-aa56-4960-9343-440cc390a857
+:END:
+#+TITLE: REST
+
+* Links
++ [[https:ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm][Roy T. Fielding's Dissertation: Representational State Transfer (Chapter 5)]]
