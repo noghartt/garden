@@ -12,3 +12,4 @@
 - [[https:amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844][Introduction to Algorithms, 3rd edition - Thomas H. Cormem]]
 - [[https:htdp.org/][How to design Programs - Felleisen, Findler, et al.]]
 - [[https:www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043][The Art of Computer Programming - Donald Knuth]]
+- [[https:mitpress.mit.edu/books/types-and-programming-languages][Types and Programming Languages - Benjamin C. Pierce]]

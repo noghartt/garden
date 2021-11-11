@@ -5,3 +5,4 @@
 
 * Articles
 + [[wikipedia:Turing machine][Turing machine - Wikipedia]]
++ [[https:hyperglitch.com/articles/turing-machine][Handmade 3D Printed "Finite" Turing Machine]]
