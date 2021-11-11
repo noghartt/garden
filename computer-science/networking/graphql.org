@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8c11415d-e81b-4356-93c6-4fd9a22fe765
+:END:
+#+TITLE: Graphql
+
+* Links
++ [[github:Shopify/graphql-design-tutorial][GitHub: GraphQL Design Tutorial]]
