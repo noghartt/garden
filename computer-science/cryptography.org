@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       171be36f-b0cb-430e-be2a-9b2f3851939c
+:END:
+#+TITLE: Cryptography
+
+* Links
++ [[wikipedia:Rubber-hose cryptanalysis][Wikipedia: Rubber-hose cryptanalysis]]
