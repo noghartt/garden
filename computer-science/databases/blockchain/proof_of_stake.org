@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       861fef8e-c389-4dd2-b63b-69b8aa88b5d0
+:END:
+#+TITLE: Proof of Stake
+
+* About
+Proof of stake is a type of consensus mechanims used to validate cryptocurrency
+transactions.
+
+* Links
++ [[wikipedia:Proof of stake][Wikipedia: Proof of Stake]]
++ [[https:ethereum.org/en/developers/docs/consensus-mechanisms/pos/][Proof of Stake - Ethereum Docs]]
