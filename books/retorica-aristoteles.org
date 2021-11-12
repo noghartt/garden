@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1cedc236-c95c-4816-a6a4-36c937dac805
+:END:
+#+TITLE: Retórica - Aristóteles
+
+* Quotes
+# TODO: Could I turn it subtitles?
++ A retórica é útil porque o verdadeiro e o justo têm naturalmente mais valor
+  do que seus opostos.
++ Acrescentemos que diante de certos auditórios nem mesmo a posse da ciência mais
+  precisa facilitará tornar convincente o que dizemos, pois a argumentação baseada
+  no conhecimento implica em instrução, e há pessoas que não se pode instruir.
