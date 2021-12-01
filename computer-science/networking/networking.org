@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2846de3d-4a22-4f4f-8c42-5579fe7a8983
+:END:
+#+TITLE: Networking
+
+* Links
++ [[https:iximiuz.com/en/posts/computer-networking-101/][Computer Networking 101]]
