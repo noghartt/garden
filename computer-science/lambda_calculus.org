@@ -54,6 +54,7 @@ Alguns exemplos de combinators são:
 - [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
 - [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
 - [[https:glebec.github.io/lambda-talk/][Lambda as JS, or a flock of functions - A talk by Gabriel Lebec]]
+- [[https:lambdaexplorer.com/][Lambda Calculus Explores - An Online REPL and interactive tutorial to Lambda Calculus]]
 
 * Footnotes
 [fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função,
