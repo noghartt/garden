@@ -1,0 +1,4 @@
+#+TITLE: TCP/IP
+
+* Links
++ [[https:locklessinc.com/articles/tcp_checksum/][TCP/IP Checksum]]
