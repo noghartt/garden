@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c0693a24-c487-4efc-b579-b0d2a3eeef18
+:END:
+#+TITLE: Domain Name System (DNS)
+
+* Links
+** [[https:jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/][DNS Doesn't propagate]]
