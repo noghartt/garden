@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c975fa3e-62eb-43fc-87e5-c006836f1463
+:END:
+#+TITLE: HTTP
+
+* HTTP Request
+** References
+*** [[https:flaviocopes.com/http-request/][HTTP Request - Flavio Copes]]
