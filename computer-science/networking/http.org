@@ -6,3 +6,4 @@
 * HTTP Request
 ** References
 *** [[https:flaviocopes.com/http-request/][HTTP Request - Flavio Copes]]
+*** [[https:jvns.ca/blog/2016/07/14/whats-sni/][How do HTTP request get sent to the right place?]]

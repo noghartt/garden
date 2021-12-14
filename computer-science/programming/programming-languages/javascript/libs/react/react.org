@@ -10,3 +10,4 @@
 + [[https:kentcdodds.com/blog/avoid-nesting-when-youre-testing][Avoid Nesting when you're Testing]]
 + [[https:kentcdodds.com/blog/colocation][Colocation]]
 + [[https:kyleshevlin.com/how-I-would-use-a-ui-library][How I would use UI library?]]
++ [[https:kentcdodds.com/blog/common-mistakes-with-react-testing-library][Common mistakes with React Testing Library]]
