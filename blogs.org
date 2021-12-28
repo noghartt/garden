@@ -19,3 +19,4 @@
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others
 + [[https:fs.blog][Farnam Street]]
++ [[https://computer.rip/][Computers are bad]]
