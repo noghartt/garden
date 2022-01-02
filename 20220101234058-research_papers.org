@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       51ecb751-9c14-48d6-9020-656de58efe9c
+:END:
+#+title: Research Papers
+
+* Links
+** [[https:web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to read a paper]]
