@@ -5,3 +5,5 @@
 
 * Links
 ** [[https:web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to read a paper]]
+* Papers
+** [[https:pnas.org/content/107/40/17433][Serotonin selectively influences moral judgment and behavior through effects on harm aversion]]

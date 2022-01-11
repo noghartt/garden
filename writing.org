@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7430f375-a38f-40fa-90a3-92a4e563d003
+:END:
+#+title: Writing
+
+* Links
+** [[https:chrisbehan.ca/posts/write-like-you-code][Writing like you code]]

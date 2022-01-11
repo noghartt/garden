@@ -1,9 +1,9 @@
-* Books
 :PROPERTIES:
 :ID:       27581ed5-adc6-4448-8828-f11a62154c69
 :END:
+#+title: Books
 
-** Computer Science
+* Computer Science
 - [[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
 - [[https:www.amazon.com.br/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X][Introduction to Theory of Computation - Michael Sipser]]
 - [[https:cs.rochester.edu/~scott/pragmatics/][Programming Language Pragmatics, 4th Edition - Michael L. Scott]]
