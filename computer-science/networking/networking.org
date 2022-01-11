@@ -4,4 +4,6 @@
 #+TITLE: Networking
 
 * Links
-+ [[https:iximiuz.com/en/posts/computer-networking-101/][Computer Networking 101]]
+** [[https:iximiuz.com/en/posts/computer-networking-101/][Computer Networking 101]]
+** [[github:bagder/docs][Internet protocols and tools related]]
+** [[https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW][Ben Eater: Networking tutorial]]
