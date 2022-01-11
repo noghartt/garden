@@ -6,7 +6,16 @@
 * Notes
 ** Tips
 + You can load some file inside GHCi with the following command: ~:l ./path/to/file~
+* Links
+** [[github:quchen/articles][Quchen's articles]]
+** [[github:adamgundry/type-inference][Haskell implementations of type inference algorithms]]
 * References
 + [[https:learnyouahaskell.com/][Learn you a Haskell]]
 + [[https:twitter.com/noghartt/status/1457559623897124864][Twitter: Some projects to do in Haskell]]
 + [[https:seas.upenn.edu/~cis194/fall16/index.html][CIS194: Introduction to Haskell]]
++ [[github:bitemyapp/fp-course][Fork of Data 61 FP Course]]
++ [[github:system-f/fp-course][system-f's FP course]]
++ [[https:graninas/The-Voids-Of-Haskell][The voids of Haskell]]
++ [[github:soupi/haskell-study-plan][Haskell study plan]]
++ [[github:i-am-tom/haskell-exercises][GHC exercises]]
++ [[github:bitemyapp/learnhaskell][How to learn haskell]]
