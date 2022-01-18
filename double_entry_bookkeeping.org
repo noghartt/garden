@@ -1,0 +1,40 @@
+#+TITLE: Double-entry Bookkeeping
+:PROPERTIES:
+:ID:       a42acfe5-da29-4fec-bf8e-35b8a4da4ad3
+:END:
+
+* Notes
+** Why =Income= is representated as a negative value?
+Because in general, they assume that =Income= is a negative value to assimilate
+with withdrawing from an account A to an account B. So, the withdraw from A to B
+is considered negative and can be categorized as Income.
+
+So, the credit is everything that increases your balance and debit is everything
+that decreases it, =Income= is the decrease from an account A that is doing the
+transaction, thus decreasing their balance, and going to the B account, for example,
+and increasing the credit and consequently your balance.
+
+#+BEGIN_QUOTE
+Based on that explanation, here’s another way to look at your balance report: every
+negative figure means that that account or person or place has less money now than when
+you started your ledger; and every positive figure means that that account or person or
+place has more money now than when you started your ledger. Make sense?
+
+---[[https:ledger-cli.org/3.0/doc/ledger3.html#Stating-where-money-goes][Ledger CLI Documentation]]
+#+END_QUOTE
+
+** What is /credit/ and /debit/?
+** A pattern to account categories
+The pattern to categorize the accounts can be called: American approach.
+
+| Name      | Debit    | Credit   |
+|-----------+----------+----------|
+| Asset     | Increase | Decrease |
+| Expenses  | Increase | Decrease |
+| Incomes   | Decrease | Increase |
+| Capital   | Decrease | Increase |
+| Liability | Decrease | Increase |
+
+* References
+** [[wikipedia:Double-entry_bookkeeping][Wikipedia: Double-entry bookkeeping]]
+** [[wikipedia:Debits_and_credits][Wikipedia: Debits and credits]]
