@@ -5,6 +5,7 @@
 
 * Notes
 ** Transaction states
+*** [[https:reddit.com/r/plaintextaccounting/comments/eftojo/what_does_cleared_mean_in_ledger_cli/][What does "cleared" mean in Ledger CLI]]
 * Links
 ** [[youtube:cjoCNRpLanY][Conquering your finances with Emacs and Ledger]]
 * References
