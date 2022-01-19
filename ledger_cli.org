@@ -10,3 +10,4 @@
 ** [[youtube:cjoCNRpLanY][Conquering your finances with Emacs and Ledger]]
 * References
 ** [[https:matthewturland.com/2014/03/29/ledger-basics-and-habits/][Ledger basics and habits]]
+** [[https:rolfschr.github.io/gswl-book/latest.html][Getting started with Ledger]]
