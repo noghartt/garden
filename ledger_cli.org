@@ -4,6 +4,17 @@
 #+title: Ledger CLI
 
 * Notes
+** Accounts
+#+BEGIN_QUOTE
+1. Expenses: where money goes,
+2. Assets: where money sits,
+3. Income: where money comes from,
+4. Liabilities: money you owe,
+5. Equity: the real value of your property.
+
+--- [[https:ledger-cli.org/3.0/doc/ledger3.html#Structuring-your-Accounts][Ledger CLI Docs: Structuring your accounts]]
+#+END_QUOTE
+
 ** Transaction states
 *** [[https:reddit.com/r/plaintextaccounting/comments/eftojo/what_does_cleared_mean_in_ledger_cli/][What does "cleared" mean in Ledger CLI]]
 * Links
@@ -11,3 +22,4 @@
 * References
 ** [[https:matthewturland.com/2014/03/29/ledger-basics-and-habits/][Ledger basics and habits]]
 ** [[https:rolfschr.github.io/gswl-book/latest.html][Getting started with Ledger]]
+** [[https:ledger-cli.org/3.0/doc/ledger3.html#Journal-Format][The "syntax" behind a =.dat= file]]
