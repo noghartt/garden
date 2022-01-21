@@ -7,3 +7,5 @@
 + [[github:ossu/math][ossu/math]] - A GitHub repository to self-taught education in Mathematics
 * Videos
 + [[youtube:cUzklzVXJwo][How imaginary numbers were invented]]
+* Articles
+** [[https:cis.upenn.edu/~jean/math-deep.pdf][Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning]]
