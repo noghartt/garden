@@ -1,7 +1,9 @@
-* Lambda Calculus
 :PROPERTIES:
-:ID:       fff13688-0b15-4836-a901-588ac28524a0
+:ID: fff13688-0b15-4836-a901-588ac28524a0
 :END:
+#+title: Lambda Calculus
+
+* Lambda Calculus
 
 Segundo a Wikipedia, o cálculo lambda (ou cálculo \lambda) é:
 
