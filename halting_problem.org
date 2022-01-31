@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       221d66de-b5b9-4fdc-84ff-ddb5ff7099ce
+:END:
+#+title: Halting Problem
+
+#+attr_org: :width 900
+[[./assets/halting-problem-machine.png]]
+
