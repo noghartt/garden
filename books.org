@@ -4,12 +4,13 @@
 #+title: Books
 
 * Computer Science
-- [[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
-- [[https:www.amazon.com.br/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X][Introduction to Theory of Computation - Michael Sipser]]
-- [[https:cs.rochester.edu/~scott/pragmatics/][Programming Language Pragmatics, 4th Edition - Michael L. Scott]]
-- [[https:pragprog.com/titles/tpdsl/language-implementation-patterns/][Language Implementation Patterns - Terence Parr]]
-- [[https://craftinginterpreters.com][Crafting Interpreters - Robert Nystrom]]
-- [[https:amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844][Introduction to Algorithms, 3rd edition - Thomas H. Cormem]]
-- [[https:htdp.org/][How to design Programs - Felleisen, Findler, et al.]]
-- [[https:www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043][The Art of Computer Programming - Donald Knuth]]
-- [[https:mitpress.mit.edu/books/types-and-programming-languages][Types and Programming Languages - Benjamin C. Pierce]]
+** [[https://haskellbook.com/][Haskell Programming for First Principles - Christoph Allen, Julie Moronuki]]
+** [[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
+** [[https:www.amazon.com.br/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X][Introduction to Theory of Computation - Michael Sipser]]
+** [[https:cs.rochester.edu/~scott/pragmatics/][Programming Language Pragmatics, 4th Edition - Michael L. Scott]]
+** [[https:pragprog.com/titles/tpdsl/language-implementation-patterns/][Language Implementation Patterns - Terence Parr]]
+** [[https://craftinginterpreters.com][Crafting Interpreters - Robert Nystrom]]
+** [[https:amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844][Introduction to Algorithms, 3rd edition - Thomas H. Cormem]]
+** [[https:htdp.org/][How to design Programs - Felleisen, Findler, et al.]]
+** [[https:www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043][The Art of Computer Programming - Donald Knuth]]
+** [[https:mitpress.mit.edu/books/types-and-programming-languages][Types and Programming Languages - Benjamin C. Pierce]]

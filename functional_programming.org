@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b8d0b205-e280-48ca-ac52-8863056aba93
+:END:
+#+title: Functional programming
+
+The base of this paradigm is based on [[id:fff13688-0b15-4836-a901-588ac28524a0][Lambda Calculus]].
+
+* Referential transparency
+Means that give the same function, the same values to evaluate, will always return
+the same result in pure functional programming, as they do in math.
