@@ -162,7 +162,7 @@ Alguns exemplos de combinators são:
 - ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o
   primeiro.
   *Exemplo:* \lambda xy.x
-  ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo.
+- ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo.
   *Exemplo:* \lambda xy.y
 - ~C~ ou "Cardinal": é uma função que recebe uma função com dois argumentos e os
   "flipa".
