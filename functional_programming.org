@@ -5,6 +5,9 @@
 
 The base of this paradigm is based on [[id:fff13688-0b15-4836-a901-588ac28524a0][Lambda Calculus]].
 
+Functional programming is based on expressions that include variables or
+constant values, expressions combined with other expressions, and functions.
+
 * Referential transparency
 Means that give the same function, the same values to evaluate, will always return
 the same result in pure functional programming, as they do in math.
