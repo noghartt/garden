@@ -8,18 +8,19 @@
 Segundo a Wikipedia, o cálculo lambda (ou cálculo \lambda) é:
 
 #+BEGIN_QUOTE
-A [[wikipedia:formal system][formal system]] in mathematical logic for expressing computation based on function
-abstraction and application using variable binding and substitution. It is a universal
-model of computation that can be used to simulate any Turing Machine.
+A [[wikipedia:formal system][formal system]] in mathematical logic for expressing computation based on
+function abstraction and application using variable binding and substitution. It
+is a universal model of computation that can be used to simulate any Turing
+Machine.
 
 --- [[wikipedia:Lambda Calculus][Lambda Calculus - Wikipedia, the free enclycopedia]]
 #+END_QUOTE
 
 * Definição
-É responsável por receber um input, processá-lo atráves de algo semelhante
-a uma "black-box" e obter seu output. Diferentemente do modelo computacional
-proposto por Turing, o cálculo lambda não possui nenhum estado interno, sendo assim,
-ela é baseada em funções matemáticas *puras*.
+É responsável por receber um input, processá-lo atráves de algo semelhante a uma
+"black-box" e obter seu output. Diferentemente do modelo computacional proposto
+por Turing, o cálculo lambda não possui nenhum estado interno, sendo assim, ela
+é baseada em funções matemáticas *puras*.
 
 Um exemplo de uma "função lambda" seria:
 \begin{equation}
@@ -43,7 +44,8 @@ Some ways to reduce a lambda function or write an equivalence between two of it.
 
 ** Alpha equivalence
 Because of non-semantic meaning of the bounded/free variables, exists a way of
-equivalence between lambda terms. It's called *alpha equivalence*. This implies that:
+equivalence between lambda terms. It's called *alpha equivalence*. This implies
+that:
 
 \begin{aligned}
 \lambda x.x\\
@@ -53,16 +55,117 @@ equivalence between lambda terms. It's called *alpha equivalence*. This implies 
 
 All of it mean the same thing. They're all the same function.
 
+** Beta reduction
+The substitution of the input expression for all instances of bound
+variables[fn:1] within the body of the abstraction. You also eliminate the head
+of the abstraction, since its only purpose was to bind a variable. It's called
+*beta reduction*.
+
+Based on this function:
+
+\begin{equation}
+\lambda x.x
+\end{equation}
+
+We apply the function above to 2, substitute 2 for each bound variable in the
+body of the function, and eliminate the head
+
+
+\begin{document}
+\begin{equation}
+(\lambda x.x) 2
+\end{equation}
+\begin{equation}
+2
+\end{equation}
+\end{document}
+
+In this case, the only bound variable is $x$, so applying this function to 2
+returns 2. This function is called /identity function/. All it does is accept a
+single argument $x$ and return the same argument. All instances of $x$ within
+the function body must have the same value.
+
+You can write a *beta reduction* like this as well:
+
+#+latex_header: \usepackage[fleqn,tbtags]{mathtools}
+#+attr_latex: :width 30\textwidth
+\begin{equation}
+  (\lambda x.x)2 \rightarrow x[x \coloneqq 2]
+\end{equation}
+
+Beta reduction is this process of applying a lambda term to an argument,
+replacing the bound variables with the value of the argument, and eliminating
+the head.
+
+Applications in the lambda calculus are /left associative/. That is, unless
+specific parenthesis suggest otherwise, they associate, or group, to the left.
+So this:
+
+\begin{equation}
+(\lambda x.x)(\lambda y.y)z
+\end{equation}
+
+Can be rewritten as:
+
+\begin{equation}
+((\lambda x.x)(\lambda y.y))z
+\end{equation}
+
+Onward with the reduction:
+
+\begin{document}
+  \begin{equation}
+    ((\lambda x.x)(\lambda y.y))z
+  \end{equation}
+  \begin{equation}
+    [x \coloneqq (\lambda y.y)]
+  \end{equation}
+  \begin{equation}
+    (\lambda y.y)z
+  \end{equation}
+  \begin{equation}
+    [y \coloneqq z]
+  \end{equation}
+  \begin{equation}
+    z
+  \end{equation}
+\end{document}
+
+A computation therefore consists of an initial lambda expression (or two, if
+you want to separate the function and its input) plus a finite sequence of
+lambda terms, each deduced from the preceding term by one application of
+beta reduction.
+
+* Free variables
+Sometimes the body expression has variables that are not named in the head. We
+call those variables *free variables*. For example, in the following expression:
+
+\begin{equation}
+  \lambda x.xy
+\end{equation}
+
+The $x$ in the body is a bound variable because it is named in the head of the
+function, while the $y$ is a free variable because it is not. When we apply this
+function to an argument, nothing can be done with the $y$. It remains
+irreducible.
+
+The [[alpha equivalence]] does not apply to free variables. That is, $\lambda x.xz$
+and $\lambda x.xy$ are not equivalent because $z$ and $y$ might be different things.
+However, $\lambda xy.yx$ and $\lambda ab.ba$ are equivalent due to [[alpha equivalence]]
+because the free variable is left alone.
+
 * Combinators
-Combinators são basicamente funções que possuem todas suas variáveis "boundeds"[fn:1].
+Combinators são basicamente funções que possuem todas suas variáveis "boundeds".
 Alguns exemplos de combinators são:
 - ~I~ ou "Identity": é uma função que recebe um argumento e o retorna.
   *Exemplo:* \lambda x.x
-- ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o primeiro.
+- ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o
+  primeiro.
   *Exemplo:* \lambda xy.x
-- ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo.
+  ~KI~ ou "Kite": é uma função que recebe dois argumentos e retorna o segundo.
   *Exemplo:* \lambda xy.y
-- ~C~  ou "Cardinal": é uma função que recebe uma função com dois argumentos e os "flipa".
+- ~C~ ou "Cardinal": é uma função que recebe uma função com dois argumentos e os
+  "flipa".
   *Exemplo:* \lambda fxy.fyx
 - ~M~ ou "Mockingbird": é uma função que recebe uma função e aplica nela mesmo.
   *Exemplo:* \lambda x.xx
@@ -74,6 +177,5 @@ Alguns exemplos de combinators são:
 - [[https:lambdaexplorer.com/][Lambda Calculus Explores - An Online REPL and interactive tutorial to Lambda Calculus]]
 
 * Footnotes
-[fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função,
-em oposição, variáveis "free" são aquelas que não possuem o escopo definido.
-
+[fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função, em
+oposição, variáveis "free" são aquelas que não possuem o escopo definido.
