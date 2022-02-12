@@ -15,6 +15,7 @@
 + [[https:mooreds.com][Dan Moore]]
 + [[https:kentcdodds.com/][Kent C. Dodds]]
 + [[http://norvig.com][Peter Norvig]]
++ [[https://boris-marinov.github.io/][Boris Marinov]]
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others

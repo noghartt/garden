@@ -4,11 +4,26 @@
 #+title: Haskell
 
 * Notes
-** Tips
-+ You can load some file inside GHCi with the following command: ~:l ./path/to/file~
-* Links
+** Normal form
+We say that expressions are in normal form when there are no more evaluation
+step that can be taken, or, put differently, when they've reached an irreducible
+form.
+
+** Syntax
+The syntax of a function can be read like this:
+
+#+begin_example haskell
+   triple x = x * 3
+-- o----o o   o---o
+#+end_example
+
+Being the =triple= the name of the function, the first =x= the parameter, and
+the body of the function is everything that is in the right of the equal sign.
+
+* Links      
 ** [[github:quchen/articles][Quchen's articles]]
 ** [[github:adamgundry/type-inference][Haskell implementations of type inference algorithms]]
+
 * References
 + [[https:learnyouahaskell.com/][Learn you a Haskell]]
 + [[https:twitter.com/noghartt/status/1457559623897124864][Twitter: Some projects to do in Haskell]]
@@ -19,3 +34,7 @@
 + [[github:soupi/haskell-study-plan][Haskell study plan]]
 + [[github:i-am-tom/haskell-exercises][GHC exercises]]
 + [[github:bitemyapp/learnhaskell][How to learn haskell]]
+
+* Related
++ [[id:b8d0b205-e280-48ca-ac52-8863056aba93][Functional programming]]
++ [[id:fff13688-0b15-4836-a901-588ac28524a0][Lambda Calculus]]

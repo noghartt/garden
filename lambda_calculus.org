@@ -155,8 +155,9 @@ However, $\lambda xy.yx$ and $\lambda ab.ba$ are equivalent due to [[alpha equiv
 because the free variable is left alone.
 
 * Combinators
-Combinators são basicamente funções que possuem todas suas variáveis "boundeds".
-Alguns exemplos de combinators são:
+A combinator is a lambda term with no free variables. Combinators, as the name
+suggest, serve only to combine the arguments they are given.
+
 - ~I~ ou "Identity": é uma função que recebe um argumento e o retorna.
   *Exemplo:* \lambda x.x
 - ~K~ ou "Kestrel": é uma função que recebe dois argumentos e retorna o
@@ -170,11 +171,14 @@ Alguns exemplos de combinators são:
 - ~M~ ou "Mockingbird": é uma função que recebe uma função e aplica nela mesmo.
   *Exemplo:* \lambda x.xx
 
-* Referências
+* References
 - [[wikipedia:Lambda_calculus][Lambda Calculus - Wikipedia]]
 - [[youtube:eis11j_iGMs][Lambda Calculus - Computerphile, YouTube]]
 - [[https:glebec.github.io/lambda-talk/][Lambda as JS, or a flock of functions - A talk by Gabriel Lebec]]
 - [[https:lambdaexplorer.com/][Lambda Calculus Explores - An Online REPL and interactive tutorial to Lambda Calculus]]
+- [[http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf][A tutorial introduction to Lambda Calculus - Raul Rojas]]
+- [[http://www.cse.chalmers.se/research/group/logic/TypesSS05/][Introduction to Lambda Calculus - Henk Barendregt; Erik Barendsen]]
+- [[http://www.paultaylor.eu/stable/prot.pdf][Proofs and Types - Jean-Yves Girard; P. Taylor; Yves Lafon]]
 
 * Footnotes
 [fn:1] Variáveis bounded são aquelas que tem seu escopo definido pela função, em
