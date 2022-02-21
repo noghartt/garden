@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       89022089-baff-45d7-897d-fb435bc136fa
+:END:
+#+title: Theory of Programming
+
+* Links
++ [[https://www.cs.toronto.edu/~hehner/aPToP/aPToP.pdf][A pratical theory of programming]]

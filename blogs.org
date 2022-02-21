@@ -3,6 +3,9 @@
 :END:
 #+title: Blogs
 
+* Blogs
++ [[https://lwn.net/][LWN]] - A dedicated site to producing the best coverage from within the Linux and
+  free software development.
 * Personal blogs
 + [[https:jvns.ca/][Julia Evans]]
 + [[https:paulgraham.com/][Paul Graham]]

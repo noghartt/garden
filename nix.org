@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1bfe562d-0276-4849-bf86-d0145fdf3711
+:END:
+#+title: Nix
+
+* Links
++ [[https://book.divnix.com/ch00-00-the-nix-package-manager.html][Nix Package Manager - Book]]
