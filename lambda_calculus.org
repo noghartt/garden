@@ -34,7 +34,7 @@ A syntax é basicamente isto:
 | Expressions                                         |
 |-----------------------------------------------------|
 | <expression> := <name> / <function> / <application> |
-| <function> := \lambda <name> . <expression>         |
+| <function> := $$\lambda$$ <name> . <expression>     |
 | <application> := <expression><expression>           |
 
 Observação: A syntax é escrita na notação de [[wikipedia:Backus-Naur form][Backus-Naur form]].
@@ -42,7 +42,7 @@ Observação: A syntax é escrita na notação de [[wikipedia:Backus-Naur form][
 * Reductions and others
 Some ways to reduce a lambda function or write an equivalence between two of it.
 
-** Alpha equivalence
+** Alpha equivalence (or $$\alpha$$-equivalence)
 Because of non-semantic meaning of the bounded/free variables, exists a way of
 equivalence between lambda terms. It's called *alpha equivalence*. This implies
 that:

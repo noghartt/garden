@@ -11,3 +11,10 @@
 ** [[https:cis.upenn.edu/~jean/math-deep.pdf][Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning]]
 ** [[https:acko.net/files/gltalks/toolsforthought/#0][Tools for thought - Graphical algebra and Fourier aanalysis]]
 ** [[https://medium.com/@lee.papa/a-brief-history-of-the-hypergraph-1d8f79fd72e5][History of hypergraphs: Where the digital & physical universe convene]]
+
+* Linked notes
++ [[id:0b7839b6-f763-47c1-91e7-8f178eb9999e][Topology]]
++ [[id:fff13688-0b15-4836-a901-588ac28524a0][Lambda Calculus]]
++ [[id:4020770d-a282-4059-bf72-e8b07f237c8e][Category Theory]]
++ [[id:af68bb7d-0e77-4439-b2d5-1c7a7e57243b][Graph Theory]]
++ [[id:d1f3e3b3-38bc-4de3-83eb-c5ee0f0ed5ec][Theory of Computation]]
