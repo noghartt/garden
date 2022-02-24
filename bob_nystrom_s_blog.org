@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a3bbacca-6fc0-46fb-bea9-42d92aaff160
+:ROAM_REFS: https://google.com https://journal.stuffwithstuff.com/
+:END:
+#+title: Bob Nystrom's blog
+#+filetags: :Blog:
+
+* Posts
++ [[https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/][What color is your function?]]

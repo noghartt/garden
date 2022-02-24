@@ -19,6 +19,8 @@
 + [[https:kentcdodds.com/][Kent C. Dodds]]
 + [[http://norvig.com][Peter Norvig]]
 + [[https://boris-marinov.github.io/][Boris Marinov]]
++ [[https://blog.zdsmith.com/][Z.D. Smith]]
++ [[id:a3bbacca-6fc0-46fb-bea9-42d92aaff160][Bob Nystrom]]
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
 * Others
