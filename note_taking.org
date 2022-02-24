@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3f9edd55-f349-4145-ad47-1ce88af58608
+:END:
+#+title: Note Taking
+
+* Links
++ A specificitation of a note-taking program
+  A post from [[id:802d8296-e0e3-4df7-8019-71919707b1ba][Z.D. Smith's blog]] talking about a specification of what is
+  necessary to contains on a structure of a note-taking software, file, etc.

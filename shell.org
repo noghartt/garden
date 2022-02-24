@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       818da22c-69d3-4af6-b39b-e7a9ac1df7c3
+:END:
+#+title: Shell
+
+* Links
++ [[https://unix.stackexchange.com/questions/3886/difference-between-nohup-disown-and/148698#148698][Difference between =nohup=, =disown= and =&=]]

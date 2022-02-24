@@ -5,3 +5,5 @@
 
 * Links
 + [[https://book.divnix.com/ch00-00-the-nix-package-manager.html][Nix Package Manager - Book]]
++ [[https://christine.website/blog/nix-flakes-1-2022-02-21][Nix Flakes: an Introduction]]
++ [[https://nixosbrasil.github.io/nix-docgen/master/nixpkgs/manual.html][Nixpkgs manual]]
