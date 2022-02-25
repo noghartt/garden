@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cd2aa11c-abeb-4b4e-aa75-1bad340b0e9e
+:END:
+#+title: History
+
+* Links
++ [[https://www.smithsonianmag.com/history/in-search-of-troy-180979553/][In search of Troy]]

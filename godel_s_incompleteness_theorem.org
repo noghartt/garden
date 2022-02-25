@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3763d3db-df2b-4b36-846c-7fd28dcb1d3e
+:END:
+#+title: Godel's Incompleteness Theorem
+#+filetags: :Math:
+
+* Links
++ [[https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html][Gödel's Incompleteness Theorem, in Bash]]
+
+* Related
++ [[id:221d66de-b5b9-4fdc-84ff-ddb5ff7099ce][Halting Problem]]

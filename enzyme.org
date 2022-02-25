@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       502c1e49-e19d-4b5f-8377-2e96c3825a07
+:ROAM_REFS: https://en.wikipedia.org/wiki/Enzyme
+:END:
+#+title: Enzyme
+
+* What is?
+Are proteins that acts as biological catalysts. Catalysts accelerate chemical reactions.
