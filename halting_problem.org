@@ -6,3 +6,5 @@
 #+attr_org: :width 900
 [[./assets/halting-problem-machine.png]]
 
+* Links
++ [[https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html][Gödel's Incompleteness Theorem, in Bash]]

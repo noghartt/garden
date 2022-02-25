@@ -4,4 +4,5 @@
 #+title: Dinosaurs
 
 * Links
-** [[yt:q4SmMz-qUxc][Tudo sobre os Dinossauros - Pirulla]]
++ [[yt:q4SmMz-qUxc][YouTube: Tudo sobre os Dinossauros - Pirulla]]
++ [[https://arstechnica.com/science/2022/02/fish-fossils-show-asteroid-that-wiped-out-the-dinosaurs-struck-in-the-spring/][An asteroid killed dinosaurs in spring — which might explain why mammals survived]]

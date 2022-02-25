@@ -26,3 +26,4 @@
 * Others
 + [[https:fs.blog][Farnam Street]]
 + [[https://computer.rip/][Computers are bad]]
++ [[https://arstechnica.com/][Ars Technica]]
