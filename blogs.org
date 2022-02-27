@@ -6,6 +6,8 @@
 * Blogs
 + [[https://lwn.net/][LWN]] - A dedicated site to producing the best coverage from within the Linux and
   free software development.
++ [[https://2ality.com/index.html][2ality - JavaScript and more]]
+
 * Personal blogs
 + [[https:jvns.ca/][Julia Evans]]
 + [[https:paulgraham.com/][Paul Graham]]
@@ -21,8 +23,11 @@
 + [[https://boris-marinov.github.io/][Boris Marinov]]
 + [[https://blog.zdsmith.com/][Z.D. Smith]]
 + [[id:a3bbacca-6fc0-46fb-bea9-42d92aaff160][Bob Nystrom]]
++ [[id:12bc9ed9-b56f-4a49-ab23-586643102de3][Xe Iaso]]
+
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
+
 * Others
 + [[https:fs.blog][Farnam Street]]
 + [[https://computer.rip/][Computers are bad]]

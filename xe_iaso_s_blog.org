@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       12bc9ed9-b56f-4a49-ab23-586643102de3
+:END:
+#+title: Xe Iaso's Blog
+#+filetags: :Blog:
