@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       46694ae2-b721-46b7-a4c2-881cad6acaf8
+:END:
+#+title: Type Theory
+
+* Links
++ [[https://danso.ca/blog/higher-kinded-types/][Understanding Higher Kinded Types]]

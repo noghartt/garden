@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c18483d7-642a-4b9a-b351-ebc884b77721
+:END:
+#+title: SSH
+
+* Links
++ [[https://orth.uk/ssh-over-cloudflare/][SSH into your private machines from anywhere, for free, using Cloudflare Tunnel]]

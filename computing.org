@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b0d00959-eedc-4982-a15a-ae31e30305dd
+:END:
+#+title: Computing
+
+* Links
++ [[https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372][A brief history of liquid computers]]
