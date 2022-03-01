@@ -20,7 +20,12 @@ The syntax of a function can be read like this:
 Being the =triple= the name of the function, the first =x= the parameter, and
 the body of the function is everything that is in the right of the equal sign.
 
-* Links      
+* Books
++ Haskell Programming from First Principles
+
+* Links
+** [[https://jappie.me/failing-in-haskell.html][Failing in Haskell]]
+** [[http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/][8 ways to report errors]]
 ** [[github:quchen/articles][Quchen's articles]]
 ** [[github:adamgundry/type-inference][Haskell implementations of type inference algorithms]]
 

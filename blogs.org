@@ -32,3 +32,4 @@
 + [[https:fs.blog][Farnam Street]]
 + [[https://computer.rip/][Computers are bad]]
 + [[https://arstechnica.com/][Ars Technica]]
++ [[https://serializer.io/#/][Serializer]] - Get the news from Hacker News, Lobste.rs, Ars Technica and others.

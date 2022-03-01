@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5e041733-6425-4552-9401-a949d303ec1a
+:END:
+#+title: Gastronomy
+
+* Articles
++ [[https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/1682146f-f233-4219-bf3f-e5ec682d00db/latest][Why is /mise en place/ important?]]
