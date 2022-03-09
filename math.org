@@ -11,6 +11,7 @@
 ** [[https:cis.upenn.edu/~jean/math-deep.pdf][Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning]]
 ** [[https:acko.net/files/gltalks/toolsforthought/#0][Tools for thought - Graphical algebra and Fourier aanalysis]]
 ** [[https://medium.com/@lee.papa/a-brief-history-of-the-hypergraph-1d8f79fd72e5][History of hypergraphs: Where the digital & physical universe convene]]
+** [[https://www.susanrigetti.com/math][So you want to study mathematics...]]
 
 * Linked notes
 + [[id:0b7839b6-f763-47c1-91e7-8f178eb9999e][Topology]]

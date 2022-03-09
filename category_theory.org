@@ -7,3 +7,4 @@
 + [[https:miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html][Adventures in Category Theory - The algebra of types]]
 + [[https:adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, And Monads In Pictures]]
 + [[https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/][Category Theory for Programmers]]
++ [[https://haskell.pesquisa.ufabc.edu.br/teoria-das-categorias/][Teoria das Categorias - UFABC]]
