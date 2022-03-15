@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c8bb130a-62a1-4a57-bc46-d5e5bea4963c
+:ROAM_REFS: https://fasterthanli.me/
+:END:
+#+title: Amos Wenger's blog
+#+filetags: :Blog:
