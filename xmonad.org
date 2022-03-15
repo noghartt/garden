@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a0935a3e-c42d-4355-8b62-cffdadeea930
+:ROAM_REFS: https://xmonad.org
+:END:
+#+title: XMonad
+
+* Links
++ [[https://xmonad.org/manpage.html][The reference of default keybindings on XMonad]]
