@@ -7,3 +7,4 @@
 + [[https:developers.google.com/web/fundamentals/performance/rendering][Google Developers: Web Rendering Performance]]
 + [[https://browser.engineering/][Browser Engineering]]
 + [[https://developers.google.com/web/updates/2018/09/inside-browser-part1][Inside Browser - Part 1]]
++ [[https://github.com/arkenfox/user.js][Firefox's =user.js= config example with explanation]]
