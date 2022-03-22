@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0b58a164-db6d-412b-be82-4a8399958a7c
+:END:
+#+title: Memorization
+
+* Links
++ [[http://www.pearlleff.com/in-praise-of-memorization][In praise of memorization]]

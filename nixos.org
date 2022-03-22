@@ -9,3 +9,4 @@ Some configurations on GitHub's repositories.
 + [[https://github.com/gvolpe/nix-config][gvolpe/nixconfig]]
 + [[https://github.com/Xe/nixos-configs/][Xe/nixos-configs]]
 + [[https://github.com/Misterio77/nix-config][Misterio77/nix-config]]
++ [[https://github.com/lucasew/nixcfg][lucasew/nixcfg]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8c2908ad-589d-46e2-a15b-2080069b0fd7
+:END:
+#+title: Text Editors
+
+* Links
++ [[https://rachelbythebay.com/w/2011/09/24/editor/][Text editors through the years, and my little "secret"]]

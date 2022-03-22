@@ -7,4 +7,8 @@
 + [[https:developers.google.com/web/fundamentals/performance/rendering][Google Developers: Web Rendering Performance]]
 + [[https://browser.engineering/][Browser Engineering]]
 + [[https://developers.google.com/web/updates/2018/09/inside-browser-part1][Inside Browser - Part 1]]
+
+* Firefox
++ [[https://rubenerd.com/my-essential-firefox-fixes-in-2022/][My essential Firefox fixes (and add-ons) in 2022]]
 + [[https://github.com/arkenfox/user.js][Firefox's =user.js= config example with explanation]]
++ [[https://restoreprivacy.com/firefox-privacy/][Firefox privacy in 2022]]

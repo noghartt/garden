@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0f24a0ca-bd6a-4ec2-b9c6-802c75fbdd37
+:END:
+#+title: Biology
+
+* Links
++ [[https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/][There's no such thing as a tree]]
+
+* Related
++ [[id:3956e9f9-bd76-4967-a7ac-14f40b0d0c69][Dinosaurs]]

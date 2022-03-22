@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       05b8d4a8-e03b-4a18-a89a-f118435125be
+:END:
+#+title: Hardware
+
+* Links
++ [[https://en.wikichip.org/][WikiChip]]
++ [[https://www.extremetech.com/computing/296154-how-are-process-nodes-defined][How are process nodes defined?]]
