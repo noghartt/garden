@@ -7,6 +7,9 @@
 + [[https://lwn.net/][LWN]] - A dedicated site to producing the best coverage from within the Linux and
   free software development.
 + [[https://2ality.com/index.html][2ality - JavaScript and more]]
++ [[https://www.linux-magazine.com/][Linux Magazine]]
++ [[https://www.anandtech.com/][AnandTech]]
++ [[https://www.extremetech.com/][ExtremeTech]]
 
 * Personal blogs
 + [[https:jvns.ca/][Julia Evans]]
@@ -25,6 +28,7 @@
 + [[id:a3bbacca-6fc0-46fb-bea9-42d92aaff160][Bob Nystrom]]
 + [[id:12bc9ed9-b56f-4a49-ab23-586643102de3][Xe Iaso]]
 + [[id:c8bb130a-62a1-4a57-bc46-d5e5bea4963c][Amos Wenger (fasterthanli)]]
++ [[id:e2a56adf-a0a0-45e3-ba20-01c7c8b80eb0][Ian Henry]]
 
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
