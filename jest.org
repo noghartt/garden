@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       ed5ccf0e-2d97-4688-9872-872a377fce54
+:ROAM_REFS: https://jestjs.io/
+:END:
+#+title: Jest
+#+filetags: :javascript:programming-languages:
+
+#+BEGIN_QUOTE
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+#+END_QUOTE
+
+* Some annotations about the Jest codebase
+** How they inject the ~beforeEach~, ~describe~, and others functions on the test file?
+Everything that was injected on the test files seems to be handled by [[https://github.com/facebook/jest/tree/main/packages/jest-runtime][packages/jest-runtime]].
+Here it's injecting the Jest globals and others functions and create the sandbox environment
+to encapsulate the test, turning it unique and isolated.
+
+Using Node's experimental [[https://nodejs.org/api/vm.html][vm]] module, they inject a ~globals~ object in the context of a V8's
+virtual machine and running the test inside it. The ~globals~ object are composed by, the utils
+functions like: ~jest.setTimeout~, ~jest.fn~, ~jest.mock~ without necessairily import it.
+
+The variable that was responsible to deal with the ~globals~ object is ~jestGlobals~ that is declared
+on ~Runtime~ class inside ~jest-runtime~ package. They are setting the globals on ~setGlobalsForRuntime~
+method, and they are executed on [[https://github.com/facebook/jest/tree/main/packages/jest-circus][packages/jest-circus]].
