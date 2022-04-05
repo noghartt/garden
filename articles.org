@@ -10,3 +10,4 @@ Some articles that doesn't have any category defined yet.
 * Links
 + [[https:https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/][How to get useful answers to your questions]]
 + [[https:paulgraham.com/smart.html][Beyond smart]]
++ [[https://cmap.ihmc.us/docs/learn.php][Learn about concept maps]]

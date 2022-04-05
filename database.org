@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       708f255b-1b4b-4e91-970e-374f913df73d
+:END:
+#+title: Database
+
+* Links
++ [[https://use-the-index-luke.com/][Use the Index, Luke! - A guide to Database performance for developers]]
