@@ -6,3 +6,6 @@
 * Links
 + [[https://en.wikichip.org/][WikiChip]]
 + [[https://www.extremetech.com/computing/296154-how-are-process-nodes-defined][How are process nodes defined?]]
+
+* Articles
++ [[https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits][Single-Chip processors have reached their limits]]
