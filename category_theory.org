@@ -3,6 +3,9 @@
 :END:
 #+title: Category Theory
 
+* Links
++ [[https://www.pnas.org/doi/pdf/10.1073/pnas.28.12.537][The first paper on Category Theory, by Eilenberg and Mac Lane]]
+
 * Articles
 + [[https:miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html][Adventures in Category Theory - The algebra of types]]
 + [[https:adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, And Monads In Pictures]]
