@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7b1edc76-46f8-4165-8682-5d0c335040b3
+:END:
+#+title: Drugs
+#+filetags: :pharmacoly:drugs:
+
+* Links
++ [[https://www.science.org/content/blog-post/uselessness-phenylephrine][The Uselessness of Phenylephrine]]
