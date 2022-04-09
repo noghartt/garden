@@ -4,6 +4,7 @@
 #+title: Statistics
 
 * Links
-** [[https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0121&codcur=55041&codhab=0][Universidade de São Paulo - Matemática e Estatística: Processos Estocáticos (SME0121)]]
-** [[https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0123&codcur=55041&codhab=0][Universidade de São Paulo - Matemática e Estátistica: Estatística (SME0123)]]
-** [[http:bl.ocks.org/ilanman/10602996][Probability Distributions]]
++ [[https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0121&codcur=55041&codhab=0][Universidade de São Paulo - Matemática e Estatística: Processos Estocáticos (SME0121)]]
++ [[https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0123&codcur=55041&codhab=0][Universidade de São Paulo - Matemática e Estátistica: Estatística (SME0123)]]
++ [[http:bl.ocks.org/ilanman/10602996][Probability Distributions]]
++ [[https://www.openintro.org/book/isrs/][Introductory Statistics with Randomization and Simulation]]

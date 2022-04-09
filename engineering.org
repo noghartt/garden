@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ae726b2a-d4a0-4f78-889f-8c94935b356a
+:END:
+#+title: Engineering
+
+* Links
++ [[https://www.okayhq.com/handbook/][Engineering effectiveness handbook]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       04fbbc71-a503-43a6-bda2-7a337cb83beb
+:END:
+#+title: Programming Languages
+#+filetags: :programming:programming-languages:
+
+* Links
++ [[https://mathspp.com/blog/why-apl-is-a-language-worth-knowing][Why APL is a language worth knowing?]]
