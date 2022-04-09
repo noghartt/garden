@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e468de98-7062-4e04-93bb-ceee76d0dfb9
+:END:
+#+title: Psychedelics
+#+filetags: :biology:drugs:
+
+* Utils
++ [[https://psychonautwiki.org/][Psychonaut Wiki]]
+
+* Related
++ [[id:9af3302f-5552-4e6a-a84b-bf4918b7ad12][Phenethylamine]]

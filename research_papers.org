@@ -4,6 +4,11 @@
 #+title: Research Papers
 
 * Links
-** [[https:web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to read a paper]]
++ [[https:web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to read a paper]]
++ [[https://github.com/papers-we-love/papers-we-love][Papers we love]]
++ [[https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/][You should be reading academic computer science papers]]
+
 * Papers
+Here I'll put some papers that doesn't have any category yet.
+
 ** [[https:pnas.org/content/107/40/17433][Serotonin selectively influences moral judgment and behavior through effects on harm aversion]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9af3302f-5552-4e6a-a84b-bf4918b7ad12
+:ROAM_REFS: https://en.wikipedia.org/wiki/Phenethylamine
+:END:
+#+title: Phenethylamine
+
+#+BEGIN_QUOTE
+Phenethylamine[note 1] (PEA) is an organic compound, natural monoamine alkaloid, and trace amine, which acts as a central nervous system stimulant in humans. In the brain,
+phenethylamine regulates monoamine neurotransmission by binding to trace amine-associated receptor 1 (TAAR1) and inhibiting vesicular monoamine transporter 2 (VMAT2) in monoamine
+neurons.[1][12][13] To a lesser extent, it also acts as a neurotransmitter in the human central nervous system.[14] In mammals, phenethylamine is produced from the amino acid L-phenylalanine
+by the enzyme aromatic L-amino acid decarboxylase via enzymatic decarboxylation.[15] In addition to its presence in mammals, phenethylamine is found in many other organisms and foods,
+such as chocolate, especially after microbial fermentation.
+
+--- Wikipedia
+#+END_QUOTE
+
+* Links
++ [[https://psychonautwiki.org/w/index.php?title=Phenethylamine][Phenetylamines - Psychonaut Wiki]]
++ [[https://erowid.org/library/books_online/pihkal/pihkal.shtml][Phenetylamines I have known and loved: A chemical love story]]
