@@ -5,3 +5,4 @@
 
 * Links
 + [[https://use-the-index-luke.com/][Use the Index, Luke! - A guide to Database performance for developers]]
++ [[https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf][Architecture of a Database System]]

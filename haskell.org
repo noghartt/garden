@@ -28,6 +28,7 @@ the body of the function is everything that is in the right of the equal sign.
 ** [[http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/][8 ways to report errors]]
 ** [[github:quchen/articles][Quchen's articles]]
 ** [[github:adamgundry/type-inference][Haskell implementations of type inference algorithms]]
+** [[https://serokell.io/blog/algebraic-data-types-in-haskell][Algebraic Data Types in Haskell]]
 
 * References
 + [[https:learnyouahaskell.com/][Learn you a Haskell]]

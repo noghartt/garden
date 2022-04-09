@@ -6,3 +6,4 @@
 
 * Links
 + [[https://mathspp.com/blog/why-apl-is-a-language-worth-knowing][Why APL is a language worth knowing?]]
++ [[https://craftofcoding.wordpress.com/2022/03/28/ever-wondered-why-goto-is-considered-harmful/][Ever wondered why goto is considered harmful?]]
