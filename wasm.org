@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7b013a4f-1c19-4b68-81d8-2d1dc7496d8c
+:END:
+#+title: WASM
+#+filetags: :programming-languages:
+
+* Links
++ [[https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc][WebAssembly in my Browser Desktop Environment]]

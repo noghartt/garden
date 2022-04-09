@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cd199c30-3a87-4f00-9639-820ffe8f8109
+:END:
+#+title: Retrocomputing
+#+filetags: :computing:hardware:
+
+* Links
++ [[https://kevinboone.me/retrocomputing.html][Why the fascination with retrocomputing?]]
