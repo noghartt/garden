@@ -8,3 +8,6 @@
 A monad is just a monoid in the category of endofunctors [...]
 --- IRY, James. [[http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html][A Brief, Incomplete, and Mostly Wrong History of Programming Languages]]
 #+END_QUOTE
+
+* Links
++ [[https://blog.ploeh.dk/2022/03/28/monads/][Monads, by Mark Seemann]]

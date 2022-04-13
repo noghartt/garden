@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       88d555b7-91bd-4b2b-9806-f58588eec024
+:ROAM_REFS: https://en.wikipedia.org/wiki/Set_theory
+:END:
+#+title: Set Theory
+#+filetags: :math:
+
+* Links
++ [[https://matematica-elementar.github.io/][Matemática Elementar - UFRN]]
++ [[https://www.youtube.com/watch?v=CtDH3J7oFcI&list=PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_][YouTube's Playlist: Teoria de Conjuntos (PT-BR)]]
