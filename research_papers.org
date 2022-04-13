@@ -5,6 +5,7 @@
 
 * Links
 + [[https:web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to read a paper]]
++ [[https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/][How to read an academic article]]
 + [[https://github.com/papers-we-love/papers-we-love][Papers we love]]
 + [[https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/][You should be reading academic computer science papers]]
 

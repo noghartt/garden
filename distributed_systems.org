@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7af937a7-3848-4d7e-b9ae-5adaf610db7e
+:END:
+#+title: Distributed systems
+
+* Links
++ [[http://catern.com/compdist.html][Your computer is a distributed system]]

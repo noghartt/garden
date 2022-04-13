@@ -30,6 +30,7 @@
 + [[id:c8bb130a-62a1-4a57-bc46-d5e5bea4963c][Amos Wenger (fasterthanli)]]
 + [[id:e2a56adf-a0a0-45e3-ba20-01c7c8b80eb0][Ian Henry]]
 + [[https://danluu.com/][Dan Luu]]
++ [[https://www.stephendiehl.com/][Stephen Diehl]]
 
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]
