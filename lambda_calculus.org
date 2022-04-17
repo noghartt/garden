@@ -15,7 +15,6 @@ Machine.
 
 --- [[wikipedia:Lambda Calculus][Lambda Calculus - Wikipedia, the free enclycopedia]]
 #+END_QUOTE
-
 * Definição
 É responsável por receber um input, processá-lo atráves de algo semelhante a uma
 "black-box" e obter seu output. Diferentemente do modelo computacional proposto
@@ -42,7 +41,7 @@ Observação: A syntax é escrita na notação de [[wikipedia:Backus-Naur form][
 * Reductions and others
 Some ways to reduce a lambda function or write an equivalence between two of it.
 
-** Alpha equivalence (or $$\alpha$$-equivalence)
+** Alpha equivalence
 Because of non-semantic meaning of the bounded/free variables, exists a way of
 equivalence between lambda terms. It's called *alpha equivalence*. This implies
 that:
@@ -149,9 +148,9 @@ function, while the $y$ is a free variable because it is not. When we apply this
 function to an argument, nothing can be done with the $y$. It remains
 irreducible.
 
-The [[alpha equivalence]] does not apply to free variables. That is, $\lambda x.xz$
+The [[*Alpha equivalence][alpha equivalence]] does not apply to free variables. That is, $\lambda x.xz$
 and $\lambda x.xy$ are not equivalent because $z$ and $y$ might be different things.
-However, $\lambda xy.yx$ and $\lambda ab.ba$ are equivalent due to [[alpha equivalence]]
+However, $\lambda xy.yx$ and $\lambda ab.ba$ are equivalent due to [[*Alpha equivalence][alpha equivalence]]
 because the free variable is left alone.
 
 * Combinators

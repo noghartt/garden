@@ -6,3 +6,4 @@
 * Links
 + [[https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372][A brief history of liquid computers]]
 + [[https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/][A brief tour of the PDP-11, the most influential minicomputer of all time]]
++ [[https://tsouanas.org/fmcbook/fmc-br-20220402114903.pdf][Matemática fundacional para computação]]
