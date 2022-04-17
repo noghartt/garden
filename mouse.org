@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1186f5d2-2c28-4a90-b1bd-a712b3a66717
+:END:
 #+TITLE: Mouse
 
 * Links

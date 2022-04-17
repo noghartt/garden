@@ -1,7 +1,7 @@
-#+TITLE: Double-entry Bookkeeping
 :PROPERTIES:
 :ID:       a42acfe5-da29-4fec-bf8e-35b8a4da4ad3
 :END:
+#+TITLE: Double-entry Bookkeeping
 
 * Notes
 ** Why =Income= is representated as a negative value?

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a18ff70e-4340-4d7a-bf6f-18bbfec167f5
+:END:
 #+TITLE: TCP/IP
 
 * Links

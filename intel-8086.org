@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f4b2634f-475b-45ca-b5f2-9e1ee5c270c3
+:END:
 #+TITLE: 8086
 
 * Articles
