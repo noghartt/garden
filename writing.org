@@ -5,3 +5,6 @@
 
 * Links
 ** [[https:chrisbehan.ca/posts/write-like-you-code][Writing like you code]]
+** [[https://www.heinrichhartmann.com/posts/writing/][Writing for engineers]]
+** [[https://x-team.com/blog/write-a-technical-blog-post/][How to write a great technical blog post]]
+** [[http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf][How to write more clearly]]

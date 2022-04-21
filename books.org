@@ -3,6 +3,10 @@
 :END:
 #+title: Books
 
+* To read
++ Principles of Product Development
++ Basecamp Shape Up
+
 * Computer Science
 ** [[https://haskellbook.com/][Haskell Programming for First Principles - Christoph Allen, Julie Moronuki]]
 ** [[https:mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation of Computer Programs - Abelson, Harold, et al.]]
@@ -14,7 +18,9 @@
 ** [[https:htdp.org/][How to design Programs - Felleisen, Findler, et al.]]
 ** [[https:www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043][The Art of Computer Programming - Donald Knuth]]
 ** [[https:mitpress.mit.edu/books/types-and-programming-languages][Types and Programming Languages - Benjamin C. Pierce]]
-** [[https://matt.might.net/articles/books-papers-materials-for-graduate-students/][Reading for Computer Science's graduate students]]
+
+** Links
++ [[https://matt.might.net/articles/books-papers-materials-for-graduate-students/][Reading for Computer Science's graduate students]]
 
 * Non-tech
 + [[https://github.com/kostistsaprailis/non-tech-books-for-developers][Non-tech books for professional growth]]

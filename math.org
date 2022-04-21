@@ -4,9 +4,12 @@
 #+title: Math
 
 * Links
-+ [[github:ossu/math][ossu/math]] - A GitHub repository to self-taught education in Mathematics
++ [[github:ossu/math][ossu/math]] :: A GitHub repository to self-taught education in Mathematics
++ [[http://www.jfsowa.com/logic/math.htm][Mathematical background to Computer Science]]
+
 * Videos
 + [[youtube:cUzklzVXJwo][How imaginary numbers were invented]]
+
 * Articles
 ** [[https:cis.upenn.edu/~jean/math-deep.pdf][Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning]]
 ** [[https:acko.net/files/gltalks/toolsforthought/#0][Tools for thought - Graphical algebra and Fourier aanalysis]]

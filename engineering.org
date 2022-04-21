@@ -5,3 +5,4 @@
 
 * Links
 + [[https://www.okayhq.com/handbook/][Engineering effectiveness handbook]]
++ [[https://www.sequential.dev/posts/be-less-technical/][Be less technical]]

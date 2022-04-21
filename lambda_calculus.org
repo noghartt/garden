@@ -112,7 +112,7 @@ Can be rewritten as:
 
 Onward with the reduction:
 
-\begin{document}
+    \begin{document}
   \begin{equation}
     ((\lambda x.x)(\lambda y.y))z
   \end{equation}
