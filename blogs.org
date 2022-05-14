@@ -31,6 +31,9 @@
 + [[id:e2a56adf-a0a0-45e3-ba20-01c7c8b80eb0][Ian Henry]]
 + [[https://danluu.com/][Dan Luu]]
 + [[https://www.stephendiehl.com/][Stephen Diehl]]
++ [[https://www.huy.rocks/][Huy Rocks]] :: A blog about computer science with topics about Compilers, Interpreters, Parsers, etc.
++ [[https://www.haskellforall.com/][Haskell for All]] :: Gabriella Gonzalez personal blog
++ [[https://staltz.com/blog.html][André Staltz]]
 
 * Wiki
 + [[https:wiki.c2.com][C2 - WikiWikiWeb]]

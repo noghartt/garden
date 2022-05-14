@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       163ed254-20bf-40b1-8626-6453d12a8fc6
+:END:
+#+title: Business
+
+* Links
+** Six Sigma
+:PROPERTIES:
+:ID:       57521a1f-e0a9-4ab7-8d20-bbf42e001ba6
+:ROAM_REFS: https://en.wikipedia.org/wiki/Six_Sigma
+:END:
+A set of techniques and tools for process improvement. A six sigma process is one which 99.99996%
+of all opportunities to produce some feature of a part are statiscally expected to be free of defects.

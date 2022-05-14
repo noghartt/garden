@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       af29d1d8-a594-4dc3-88a3-f66b8b94aada
+:END:
+#+title: Design
+
+* Typography
+- [[https://uxdesign.cc/improve-your-designs-with-these-typography-tips-eeacc8fb81ff][Improve your designs with these typography tips]]

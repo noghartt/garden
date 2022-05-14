@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       47e977fa-9ac0-40da-a13b-803f037ed984
+:END:
+#+title: Productivity
+
+* Links
++ [[https://fs.blog/eisenhower-matrix/][Einsenhower matrix]]

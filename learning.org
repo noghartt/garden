@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       802fe490-f626-405e-aa20-cffcd4855fd8
+:END:
+#+title: Learning
+
+* Links
++ [[https://fs.blog/learning/][Accelerated learning: learn faster and remember more]]
