@@ -11,3 +11,4 @@ A monad is just a monoid in the category of endofunctors [...]
 
 * Links
 + [[https://blog.ploeh.dk/2022/03/28/monads/][Monads, by Mark Seemann]]
++ [[https://www.youtube.com/watch?v=ZhuHCtR3xq8][Brian Beckman: Don't fear the Monad]]

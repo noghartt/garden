@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6cdcec2c-b90d-4f18-80c7-92ae9abd83f9
+:END:
+#+title: Typescript
+
+* Links
++ [[https://ivov.dev/notes/typescript-and-set-theory][Typescript and Set theory]]

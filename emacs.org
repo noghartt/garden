@@ -6,3 +6,6 @@
 * Packages
 ** Package managers (or something with packages)
 + [[github:raxod502/straight.el][straight.el]] - next generation, purely functional package manager
+
+* Links
++ [[https://hungyi.net/posts/doom-emacs-search-replace-project/][How to Do a Project-wide Search & Replace in Doom Emacs]]

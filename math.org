@@ -6,6 +6,7 @@
 * Links
 + [[github:ossu/math][ossu/math]] :: A GitHub repository to self-taught education in Mathematics
 + [[http://www.jfsowa.com/logic/math.htm][Mathematical background to Computer Science]]
++ [[https://www.tsouanas.org/fmcbook/][Matematática Fundacional para Computação]]
 
 * Videos
 + [[youtube:cUzklzVXJwo][How imaginary numbers were invented]]

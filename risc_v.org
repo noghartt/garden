@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b1413fb1-a48e-499d-99c4-f437ec0e8b3a
+:END:
+#+title: RISC-V
+
+* Links
++ [[https://www.youtube.com/watch?v=Ps0JFsyX2fU][ExplainingComputers - Explaining RISC-V: An x86 & ARM alternative]]
