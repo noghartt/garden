@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a8cdbb4e-560a-4c72-88b5-0c2ff40236c2
+:END:
+#+title: Parser
+
+* Questions
+** What is a parser combinator?
+Is just a HOF (higher-order function) that acccepts several parsers as input
+and returns a new parser as output.

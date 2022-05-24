@@ -2,6 +2,7 @@
 :ID:       4020770d-a282-4059-bf72-e8b07f237c8e
 :END:
 #+title: Category Theory
+#+filetags: :math:
 
 * Links
 + [[https://www.pnas.org/doi/pdf/10.1073/pnas.28.12.537][The first paper on Category Theory, by Eilenberg and Mac Lane]]

@@ -14,3 +14,10 @@ the same result in pure functional programming, as they do in math.
 
 * Links
 + [[https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/][How side effects works in FP]]
+
+* Questions
+** What is =pattern matching=?
+Is a dispatch mecanism. Choosing which variant of a function is the correct one to
+call. It's inspired by standard mathematical notations. Some of the pros of this feature is:
+
+- Can make an assertio based on the value and the structure of something.

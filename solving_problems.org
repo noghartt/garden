@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8910586e-5696-4cfc-a342-eeb2c21fa6ee
+:END:
+#+title: Solving problems
+
+* Links
++ [[https://kinopio.club/][Kinopio]] :: A tool to spatial thinking for new ideas and hard problems
