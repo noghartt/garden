@@ -14,6 +14,7 @@ the same result in pure functional programming, as they do in math.
 
 * Links
 + [[https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/][How side effects works in FP]]
++ [[https://github.com/BartoszMilewski/DaoFP][The Dao of Functional Programming]]
 
 * Questions
 ** What is =pattern matching=?
