@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d8a57d17-9e75-4f3b-8199-d5f1f218b959
+:END:
+#+title: TLA+
+#+filetags: :programming-languages:
+
+* Links
++ [[https://www.youtube.com/watch?v=p54W-XOIEF8][Lamport TLA+ Course Lecture]]

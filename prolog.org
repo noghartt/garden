@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2d9195c6-b9ad-406d-bafb-cfe262cbfa07
+:END:
+#+title: Prolog
+#+filetags: :programming-languages:
+
+* Links
++ [[https://www.metalevel.at/prolog][The power of Prolog]]

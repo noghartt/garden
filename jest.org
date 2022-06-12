@@ -3,7 +3,7 @@
 :ROAM_REFS: https://jestjs.io/
 :END:
 #+title: Jest
-#+filetags: :javascript:programming-languages:
+#+filetags: :javascript:
 
 #+BEGIN_QUOTE
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity.

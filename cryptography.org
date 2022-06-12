@@ -5,3 +5,4 @@
 
 * Links
 + [[wikipedia:Rubber-hose cryptanalysis][Wikipedia: Rubber-hose cryptanalysis]]
++ [[https://cacr.uwaterloo.ca/hac/][Handbook of Applied Cryptography]]
