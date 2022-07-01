@@ -7,3 +7,4 @@
 * Links
 + [[https:blog.robertelder.org/how-to-make-a-cpu/][How to make a CPU]]
 + [[https://news.ycombinator.com/item?id=30860259][ASK HN: How does a CPU communicate with a GPU?]]
++ [[https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/][16-bit RISC-V processor made with carbon nanotubes]]

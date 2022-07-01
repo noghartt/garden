@@ -12,3 +12,7 @@
 + [[https://rubenerd.com/my-essential-firefox-fixes-in-2022/][My essential Firefox fixes (and add-ons) in 2022]]
 + [[https://github.com/arkenfox/user.js][Firefox's =user.js= config example with explanation]]
 + [[https://restoreprivacy.com/firefox-privacy/][Firefox privacy in 2022]]
+
+* Links
++ [[https://web.dev/howbrowserswork/][How browsers work]]
++ [[https://www.youtube.com/watch?v=0XTSiCvZUGs][Navegadores por debaixo dos panos com Ana Luiza Bastos]]

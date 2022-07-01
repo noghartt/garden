@@ -7,3 +7,4 @@
 + [[https://danso.ca/blog/higher-kinded-types/][Understanding Higher Kinded Types]]
 + [[https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/][An accessible introduction to type theory and implementing a type-checker]]
 + [[https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html][The appeal of  biredctional type]]
++ [[https://golem.ph.utexas.edu/category/2013/01/from_set_theory_to_type_theory.html][From Set theory to Type Theory]]

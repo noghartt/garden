@@ -3,9 +3,17 @@
 :END:
 #+title: Emacs
 
-* Packages
-** Package managers (or something with packages)
-+ [[github:raxod502/straight.el][straight.el]] - next generation, purely functional package manager
-
 * Links
 + [[https://hungyi.net/posts/doom-emacs-search-replace-project/][How to Do a Project-wide Search & Replace in Doom Emacs]]
++ [[https://vxlabs.com/2022/06/12/typescript-development-with-emacs-tree-sitter-and-lsp-in-2022/][TypeScript development with Emacs, TreeSitter and LSP in 2022]]
++ [[https://batsov.com/articles/2011/11/30/the-ultimate-collection-of-emacs-resources/][The ultimate collection of Emacs resources]]
+
+* Notes
+** Documentation about everything
+You can find a documentation about anything in Emacs just running
+=M-x info= command.
+** Keybinds and keymaps
+:PROPERTIES:
+:ID:       1f344115-71c1-4a22-b18a-e8a1ae283082
+:END:
+There are some functions
